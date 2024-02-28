@@ -1,6 +1,8 @@
 # Capstone-Project-on-20-Questions
 This is a Capstone Project on the optimal search strategy for "20 Question Game" by Jialin Guo. 
 
+For Overview of the project, check out **`Capstone.pptx`**!
+
 
 **`20 Game Vectorize`** This is the py file for all the codes and a sample play of the game. 
 
